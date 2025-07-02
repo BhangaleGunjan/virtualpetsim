@@ -49,9 +49,9 @@ Game Over:
 - 🏆:	View Achievements
 
 ## 📸 Screenshots
-![Demo](./Images/ss1.png)
-![Demo](./Images/ss2.png)
-![Demo](./Images/ss3.png)
+> ![Demo](./Images/ss1.png)
+> ![Demo](./Images/ss2.png)
+> ![Demo](./Images/ss3.png)
 
 ## 🛠 Tech Stack
 - HTML5
